@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "adpyke.codesnap",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "vscode-icons-team.vscode-icons",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}

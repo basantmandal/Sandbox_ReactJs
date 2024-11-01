@@ -1,0 +1,36 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": true,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all",
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints.enabled": true,
+    "files.exclude": {
+        "**/*.tar.xz": true,
+        "**/*.zip": true,
+        "**/.DS_Store": true
+    },
+    "files.readonlyInclude": {
+        "**/node_modules/**/*.*": true,
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "node_modules": true
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    },
+    "workbench.colorTheme": "Visual Studio Light"
+}
